@@ -1,0 +1,15 @@
+/Users/Nigel.Quinlan/RiderProjects/Katas/CoffeeMachine/CoffeeMachine/bin/Debug/net5.0/CoffeeMachine.deps.json
+/Users/Nigel.Quinlan/RiderProjects/Katas/CoffeeMachine/CoffeeMachine/bin/Debug/net5.0/CoffeeMachine.runtimeconfig.json
+/Users/Nigel.Quinlan/RiderProjects/Katas/CoffeeMachine/CoffeeMachine/bin/Debug/net5.0/CoffeeMachine.runtimeconfig.dev.json
+/Users/Nigel.Quinlan/RiderProjects/Katas/CoffeeMachine/CoffeeMachine/bin/Debug/net5.0/CoffeeMachine.dll
+/Users/Nigel.Quinlan/RiderProjects/Katas/CoffeeMachine/CoffeeMachine/bin/Debug/net5.0/ref/CoffeeMachine.dll
+/Users/Nigel.Quinlan/RiderProjects/Katas/CoffeeMachine/CoffeeMachine/bin/Debug/net5.0/CoffeeMachine.pdb
+/Users/Nigel.Quinlan/RiderProjects/Katas/CoffeeMachine/CoffeeMachine/obj/Debug/net5.0/CoffeeMachine.csproj.AssemblyReference.cache
+/Users/Nigel.Quinlan/RiderProjects/Katas/CoffeeMachine/CoffeeMachine/obj/Debug/net5.0/CoffeeMachine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Nigel.Quinlan/RiderProjects/Katas/CoffeeMachine/CoffeeMachine/obj/Debug/net5.0/CoffeeMachine.AssemblyInfoInputs.cache
+/Users/Nigel.Quinlan/RiderProjects/Katas/CoffeeMachine/CoffeeMachine/obj/Debug/net5.0/CoffeeMachine.AssemblyInfo.cs
+/Users/Nigel.Quinlan/RiderProjects/Katas/CoffeeMachine/CoffeeMachine/obj/Debug/net5.0/CoffeeMachine.csproj.CoreCompileInputs.cache
+/Users/Nigel.Quinlan/RiderProjects/Katas/CoffeeMachine/CoffeeMachine/obj/Debug/net5.0/CoffeeMachine.dll
+/Users/Nigel.Quinlan/RiderProjects/Katas/CoffeeMachine/CoffeeMachine/obj/Debug/net5.0/ref/CoffeeMachine.dll
+/Users/Nigel.Quinlan/RiderProjects/Katas/CoffeeMachine/CoffeeMachine/obj/Debug/net5.0/CoffeeMachine.pdb
+/Users/Nigel.Quinlan/RiderProjects/Katas/CoffeeMachine/CoffeeMachine/obj/Debug/net5.0/CoffeeMachine.genruntimeconfig.cache

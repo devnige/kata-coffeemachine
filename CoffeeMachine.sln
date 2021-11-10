@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeMachine", "CoffeeMachine\CoffeeMachine.csproj", "{BB29DE2F-480D-4772-ACE5-1DE6B532F55B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeMachineTests", "CoffeeMachineTests\CoffeeMachineTests.csproj", "{32FE8B02-E6A2-4913-8D01-45E86632549C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB29DE2F-480D-4772-ACE5-1DE6B532F55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB29DE2F-480D-4772-ACE5-1DE6B532F55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB29DE2F-480D-4772-ACE5-1DE6B532F55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB29DE2F-480D-4772-ACE5-1DE6B532F55B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32FE8B02-E6A2-4913-8D01-45E86632549C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FE8B02-E6A2-4913-8D01-45E86632549C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FE8B02-E6A2-4913-8D01-45E86632549C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FE8B02-E6A2-4913-8D01-45E86632549C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
