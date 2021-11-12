@@ -7,7 +7,6 @@
 
     <ItemGroup>
       <Compile Remove="DrinkType.cs" />
-      <Compile Remove="Sugar.cs" />
       <Compile Remove="Drink.cs" />
     </ItemGroup>
 
